@@ -1,7 +1,0 @@
-
-xv6 kernel is booting
-
-init: starting sh
-$ thrdtest4
-[OK] test_multi_context
-$ qemu-system-riscv64: terminating on signal 15 from pid 2035 (make)

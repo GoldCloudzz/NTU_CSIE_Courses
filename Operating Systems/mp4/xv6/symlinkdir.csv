@@ -1,7 +1,0 @@
-make[1]: Entering directory '/home/xv6'
-make[1]: 'kernel/kernel' is up to date.
-make[1]: Leaving directory '/home/xv6'
-Testing symbolic links to directories (public): (3.4s) 
-  Symbolic links to directories: public testcase 1 (9 points): OK 
-  Symbolic links to directories: public testcase 2 (9 points): OK 
-Score: 18/18
